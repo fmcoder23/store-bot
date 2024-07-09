@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app",
-    "dev": "nodemon src/app",
-    "insert": "node src/models/insert"
+    "start": "node src/app"
   },
   "keywords": [],
   "author": "",
